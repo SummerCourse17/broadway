@@ -1,4 +1,8 @@
-h1, h2, h3, p, .footer, .design, .footer_links, #header, img{
+/*h1, h2, h3, p, .footer, .design, .footer_links, #header, img{
+  font-family: Helvatica;
+  text-align: center;
+}*/
+body{
   font-family: Helvatica;
   text-align: center;
 }
@@ -38,4 +42,7 @@ p{
 #links{
   color: white;
   font-size: 18px;
+}
+#footer{
+  text-align: right
 }
